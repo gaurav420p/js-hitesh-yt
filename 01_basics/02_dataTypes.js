@@ -8,6 +8,15 @@ let name="hitesh";
 let age=18;
 let isLoggedin=false;
 
+let state=null // in case of temperate because 0 is in temp 
+
 //number range => 2 to power 53 
 //big int
-//string
+//string => ""
+//boolean => true/false
+//null=> standalone value
+//undefined
+//symbol
+
+//object
+ console.log (typeof age );
